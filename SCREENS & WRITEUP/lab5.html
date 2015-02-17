@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,700,400' rel='stylesheet' type='text/css'>
+
+  <meta charset="UTF-8"/>
+  <meta name = "description"  content = "CMPSC 457 Lab #1 Writeup" />
+  <meta name = "keywords"     content = "Matthew, Panetta, Lab, CMPSC457, OpenGL, house, 2D"/>
+  <meta name = "robots"       content = "index,follow"/>
+
+  <base href = "http://65.185.85.1/"/>
+
+  <link rel = "stylesheet" href = "styles.css"/>
+
+  <title>CMPSC 457 Lab #5 Writeup</title>
+
+</head>
+
+<body>
+
+  <div id="wrapper">
+    <header>
+      <h1>CMPSC 457 Lab #5</h1>
+      <h2>By: Matthew Panetta</h2>
+    </header>
+
+    <main id="content">
+      <div id="labInfo">
+        <img class="sidePicture" alt="OpenGL drawing of a robot" src="start.PNG" />
+        <img class="sidePicture" alt="OpenGL drawing of a robot" src="dance.png" />
+        <h3>Instructions</h3>
+        <div id="directions">
+          In this lab I needed to:
+          <ul id="objectives">
+            <li>Draw a 3D ragdoll</li>
+            <li>Draw each individual part independantly</li>
+            <li>Provide a dancing animation</li>
+            <li>Allow freeform rotation  using arrow keys</li>
+          </ul>
+        </div>
+      </div>
+
+      <div id="implement-wrapper">
+
+
+        <h3>My Implementation</h3>
+
+        <div id="implementations">
+          <ul id="info">
+            <li>I made each part seperately. The head is a sphere, while everything else is a cylinder.</li>
+            <li>When 'a' is pressed, the ragdoll will perform a funky fresh dance move.</li>
+            <li>While not animating, the ragdoll can be freeform rotated using the arrow keys.</li>
+            <li>Rotations are fixed between two intervals, so the ragdoll won't break.</li>
+            <li>Up = Left Leg, Down = Right Leg, Left = Left Arm, Right = Right Arm</li>
+            <li>The robot has a green shirt and jeans on.</li>
+          </ul>
+        </div>
+
+      <div id="code">
+        <h3>Source Code</h3>
+        <p id="sourceCode">
+          The source code is available on:
+          <a href="https://github.com/matthewpanetta/CMPSC457_Lab5">Github</a>
+          <br>Or, here is the
+          <a href="https://github.com/matthewpanetta/CMPSC457_Lab5/blob/master/Lab5/Source.cpp">
+            Source.cpp</a> file on GitHub.
+          </p>
+        </div>
+      </main>
+    </div>
+  </body>
+
+  </html>

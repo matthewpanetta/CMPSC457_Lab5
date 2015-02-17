@@ -1,0 +1,44 @@
+﻿Build started 2/16/2015 8:36:26 PM.
+     1>Project "C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\Lab5\Lab5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\packages\nupengl.core.0.0.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(165): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(166): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(167): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(171): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(173): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(174): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(181): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(183): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(186): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(188): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(193): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(194): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(197): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(199): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(207): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(208): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(211): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(213): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(218): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(219): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(222): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(232): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(233): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(236): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(243): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(246): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(259): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(266): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\mp755\desktop\spring 2015\work\cmpsc 457\labs\lab 5\lab5\source.cpp(269): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\Debug\Lab5.exe" /INCREMENTAL /NOLOGO "C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\packages\nupengl.core.0.0.0.1\build\native\../..//build/native/lib/Win32\v120\glew32.lib" "C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\packages\nupengl.core.0.0.0.1\build\native\../..//build/native/lib/Win32\v120\glfw3dll.lib" "C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\packages\nupengl.core.0.0.0.1\build\native\../..//build/native/lib/Win32\v120\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\Debug\Lab5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\Debug\Lab5.lib" /MACHINE:X86 Debug\Source.obj
+         Lab5.vcxproj -> C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\Debug\Lab5.exe
+     1>Done Building Project "C:\Users\mp755\Desktop\SPRING 2015\Work\CMPSC 457\Labs\Lab 5\Lab5\Lab5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.52
